@@ -6,4 +6,4 @@ I'll link my blogs here so you don't have to go shuffling around in the one fold
 
 Date: 1/28/2024<br>
 Title: Dev Log is a Blog!<br>
-[Link - 28Jan2024 - Dev Log is a Blog!](blogsByDate/blog-28Jan2024.md)
+[Link To - Dev Log is a Blog!](blogsByDate/blog-28Jan2024.md)
