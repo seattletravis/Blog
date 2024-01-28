@@ -16,14 +16,10 @@ Guide for future blog posts:
 
 Hello reader, You are here! You are by far the minority because of that.
 
-This of course is my first blog post on my Git Hub blog. I decided to set up this blog because sometimes I want to blog but I want to also dev log,  
-so this is the best of both worlds. I had been keeping a dev log on one of my repos but this will be a dedicated dev log so that I can just keep all  
-development details in one place.
+This of course is my first blog post on my Git Hub blog. I decided to set up this blog because sometimes I want to blog but I want to also dev log,
+so this is the best of both worlds. I had been keeping a dev log on one of my repos but this will be a dedicated dev log so that I can just keep all development details in one place.
 
-I had been working through some boot camp courses recently and haven't had a lot of time to code, but I finished up the IBM Node/Express course and  
-the IBM Python for AI and DataScience Course 2 days ago, so yesterday I had off and hit up SnakeEatsBoids code!!! I was able to finally implement  
-the 3rd behavior between boid boid interation and it looks good. I built my behaviors differently than the norm, simply because I wanted the boids  
-to have a little more 'sight' information. They perform well but different than other boid implementations which is great!.
+I had been working through some boot camp courses recently and haven't had a lot of time to code, but I finished up the IBM Node/Express course and the IBM Python for AI and DataScience Course 2 days ago, so yesterday I had off and hit up SnakeEatsBoids code!!! I was able to finally implement the 3rd behavior between boid boid interation and it looks good. I built my behaviors differently than the norm, simply because I wanted the boids to have a little more 'sight' information. They perform well but different than other boid implementations which is great!.
 
 I also had to help a friend with the brakes on his truck. He literally had a brakeline fail. When he pumped the brakes brake fluid sprayed all over  
 the wheel well. That was fixed, now I think that I have air in my brake lines. My brake pedal doesn't immediately retract when I depress the brake.  
