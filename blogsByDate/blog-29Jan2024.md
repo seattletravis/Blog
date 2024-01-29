@@ -28,4 +28,8 @@ Like method 2 but instead of calculating the distance as a bird flies, we'll use
 
 Well I think I have enough here to start building out my API. It'll be challenging but I think I can produce something that works.
 
+Notes: <br>
+API from Google, **Distance Matrix API**, 28,500 free mapload requests each month (Roughly 950/day).
+
+<br>
 This is Travis, signing off.
