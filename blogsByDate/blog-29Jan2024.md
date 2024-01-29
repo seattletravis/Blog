@@ -14,4 +14,14 @@ I did finish the Node class last week and I think it would be a good idea to for
 
 I'm just now looking at building this API which is doiable, but i'd like to do it in a what in which it it's scalable. Lets talk this through.
 
+### _Method 1 Store Territory Selected Address in Object_
+
 The user will selected all the address' that they are willing to service. There can even be multiple service tiers, $ for tier 1, $$ for tier 2, and $$$ for tier 3. The user can select address by using a map feature where they highlight an area on a google map. google may already have a selection feature like this availalbe. Once the user selects all the addresses then that data goes into a object. Then when the client sends the service address the userObject.territoryTier1.addresses list is check to see if the client.serviceAddress is present. If it is then return true and push the user to the list of users who service the clients address.
+
+### _Method 2 get 'As Bird Flies' distance between both addresses_
+
+User specifies territory center and territory radius, lets say they specify their home base address, and 5 miles. The API will take the user address and client address and calculate the distance between them. If it's < 5 miles it returns true.
+
+### _Method 3 get 'travel distance from map API' between both addresses_
+
+Like method 2 but instead of
