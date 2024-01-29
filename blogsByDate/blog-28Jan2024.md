@@ -1,4 +1,4 @@
-# Travis Lamberte - Ligma Blog
+# Travis Lamberte - Dev Log is a Blog
 
 ## Date: 1/28/2024
 
