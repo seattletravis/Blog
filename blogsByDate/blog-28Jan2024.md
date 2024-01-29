@@ -27,4 +27,4 @@ It's been 15 months since I've had any sort of income. The reason I'm trasitioni
 
 I think I'm done blogging for today.
 
-This is Travis signing off. Thanks for reading my Ligma Blog!
+This is Travis, signing off. Thanks for reading my - Dev Log is a Blog!
