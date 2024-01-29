@@ -24,4 +24,4 @@ User specifies territory center and territory radius, lets say they specify thei
 
 ### _Method 3 get 'travel distance from map API' between both addresses_
 
-Like method 2 but instead of
+Like method 2 but instead of calculating the distance as a bird flies, we'll use a maps api to get the 'travel distance' based on road info, this may also include 'average travel time' that can be used by the user to determine territory settings.
