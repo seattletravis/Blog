@@ -26,4 +26,14 @@ The game is written in JavaScript, HTML, and CSS. I used the Vite framework, and
 
 I learned a lot about physics engines building this game, a lot about how to build light objects, cameras, shapes, and apply textures. How to move lights, game pieces, and cameras around in ThreeJS. I also learned some great JS tricks, some HTML fundatmentals, and even some CSS working on the game menu.
 
+This was the first project that I really used Git/Github on. I had some other repos on Guthub before this, but this project was the first one that I really used git features. If i went down a rabit hole that ended up breaking my code they I could revert back to an earlier commit. I was really able to explore VS Codes features, using some plugins that help facilitate a happier programming experience. It isn't that big of a secret but VS Code has hot keys for almost everything. And that is truely an awe inspiring statement when you really thing about it. It's like an everything bagel hold the mouse. No mouse.
+
+I hosted this project on the Cpanel static web page. I set up a subdomain and hosted it. I know it's not the same a setting up a hard server in my garage and hosting the website, but it's still part of the suite of technologies that were touched getting the project online.
+
+The physics engine (CannonES) was one of those things that seems very itimidating, but with some ThreeJS under my belt I was able to get set a very solid foundation using it. A lot of the physics objects looked a lot like the ThreeJS objects. They did live in their own libraries so there was special code segements that updated the position of all the ThreeJS objects based on the what the physics calculations returned from the engine. CannonES had a development mode that showed a rough outline render of where the object was and what it was doing. This was used in conjunction with the ThreeJS render to make sure that the Three object and the Cannon object were indeed bound to each other. So after a lot of leaning it was only a matter of building, toying, and playing before I realized that the game was indeed possible and that I was getting along at it.
+
+What is a game with out the user interface and user controls?
+
+![](../images/Tilt3D_UI.png)
+
 This project took me 6 weeks. From start to finish. Working more or less 40hrs/week.
