@@ -34,6 +34,9 @@ The physics engine (CannonES) was one of those things that seems very itimidatin
 
 What is a game with out the user interface and user controls?
 
+The controls for Tilt3D are fairly involve. The mouse is used to control the place on the screen where the cursor is, which is a point tied to the raycaster. When the mouse button is clicked ThreeJS can add all Three objects that the ray intersects with into a list, which we use to take the 1st oject which is the Three oject that we are hovering the mouse over. This is how we select the block and also the pick point that we tie to the cursor, so when the mouse button is held down the effect is we drag the block by the specific pick point around in the environment. Now that we can pick up objects we can build a score system around it. We add 2 score sphere into the enviroment that are located oposite the camera in reference to the tower. When we move the camera in reference to the table and tower we also have to move the score spheres. It looks like we're moving the tower but what we're really doing is moving the camera and score spheres. Now that we have a system to score, we'll check to see if a tile is picked and if the raycaster event is also hovering over the score sphere, if it is when we release the mouse button we recieve points and the game score system is updated.
+
+How
 ![](../images/Tilt3D_UI.png)
 
 This project took me 6 weeks. From start to finish. Working more or less 40hrs/week.
