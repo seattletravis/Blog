@@ -8,7 +8,7 @@ Date: 2/2/2024<br>
 [Tilt3D, Software Project that didn't land a job!](blogsByDate/blog-2Feb2024.md)
 
 Date: 1/30/2024<br>
-[Development and Unemployment](blogsByDate/blog-30Jan2024.md)
+[Development and Unemployment.](blogsByDate/blog-30Jan2024.md)
 
 Date: 1/29/2024<br>
 [Another day another job application!](blogsByDate/blog-29Jan2024.md)
