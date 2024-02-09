@@ -44,4 +44,4 @@ When building a game there's this game logic that needs to be developed that is 
 
 My experience with software development
 
-This project took me 6 weeks. From start to finish. Working more or less 40hrs/week. This was one of the first full production project that I was excited about adding to my portfolio. Now 8 months after I finished it, I realize that this project did not land me a job.
+This project took me 6 weeks. From start to finish. Working more or less 40hrs/week. This was one of the first full production projects that I was excited about adding to my portfolio. Now 8 months after I finished it, I realize that this project did not land me a job.
