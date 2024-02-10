@@ -5,7 +5,7 @@ Welcome to my blog. I'll blog here when ever I feel like it. Sometimes I have a 
 I'll link my blogs here so you don't have to go shuffling around in the one folder that has all the blogs in it.
 
 Date: 2/9/2024<br>
-[Tilt3D, More Meetups!!!](blogsByDate/blog-9Feb2024.md)
+[More Meetups!!!](blogsByDate/blog-9Feb2024.md)
 
 Date: 2/2/2024<br>
 [Tilt3D, Software Project that didn't land a job!](blogsByDate/blog-2Feb2024.md)
