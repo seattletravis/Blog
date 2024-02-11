@@ -1,6 +1,6 @@
 # Travis Lamberte - Dev Log is a Blog
 
-## Date: 2/2/2024
+## Date: 2/9/2024
 
 ## Title: More Meetups!!!
 
