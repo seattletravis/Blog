@@ -1,6 +1,6 @@
 # Travis Lamberte - Dev Log is a Blog
 
-## Date: 1/28/2024
+## Date: 1/30/2024
 
 ## Title: Development and unemployment
 
