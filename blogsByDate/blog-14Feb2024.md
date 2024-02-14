@@ -1,6 +1,6 @@
 # Travis Lamberte - Dev Log is a Blog
 
-## Date: 2/10/2024
+## Date: 2/14/2024
 
 ## Title: Mason Bees and Spring
 
@@ -8,4 +8,4 @@ I just finished the Django course for the IBM Full Stack Developer Program! Just
 
 Spring is the time of year to look forward to cherries and other yard plant experiments. I removed the grape vine. It made terrific raisins but the Phyloxera what a deal breaker. What a nasty little pest that is. I removed the lemon trees. It was a failed experiment. However I just installed the homes for the mason bees. This will be the first year that I keep bees. They have a fascinating live cycle. I decided to put them in this year because Terry is also starting to raise mason bees and is giving me some larva to start a colony. Mason bees shoule be just what I need to polinate the cherries.
 
-I have parts for the car coming and need to replace the brake pads and rotors for all 4 wheels as well as bleed the brake lines. That will be a job.
+I have parts for the car coming and need to replace the brake pads and rotors for all 4 wheels as well as bleed the brake lines. That will be a job. I'll do the brake job on Friday this week.
