@@ -11,3 +11,7 @@ Spring is the time of year to look forward to cherries and other yard plant expe
 I have parts for the car coming and need to replace the brake pads and rotors for all 4 wheels as well as bleed the brake lines. That will be a job. I'll do the brake job on Friday this week.
 
 Brake Parts: Front Rotors, Rear Rotors, Front Pads, Rear Pads, Floor Jack, Jack Stands, Chock Blocks, Bleader Kit, C-Clamp, DOT-3 Brake Fluid, Silicon Lubricant Grease, Brake Lubricant Grease, Brake Cleaner Spray, 10mm box wrench, Impact Wrench, clips, Read Guide Pins, Front Guide Pins, vinyl gloves, and paper towels.
+
+I really don't know why I listed the parts I'll be using to change the brakes, I just felt like it. There's a couple of sockets I didn't mention I think there's a 17mm and a breaker bar too. Anyways. Enough about that.
+
+This last week I spend a couple of days getting the yard ready for the Mason Bees. They need an assortment of diffenent materials to be successful. They need a shelter that is protected from the rain and that also receives direct sun in the morning. They need wood or paper straws that they use to lay their eggs and shelter in over winter. They also need water and clay nearby. The requirements that I've read is that the bee housing should be about 5 feet off the ground and the clay water supply should be within 3 feet of the nest. They also have a smaller territory than Honey Bees. Mason Bees only travel around 300 feet from their nest
