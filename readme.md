@@ -4,6 +4,9 @@ Welcome to my blog. I'll blog here when ever I feel like it. Sometimes I have a 
 
 I'll link my blogs here so you don't have to go shuffling around in the one folder that has all the blogs in it.
 
+Date: 2/17/2024<br>
+[Seattle Code and Coffee!!!](blogsByDate/blog-17Feb2024.md)
+
 Date: 2/14/2024<br>
 [Mason Bees and Spring!](blogsByDate/blog-14Feb2024.md)
 
