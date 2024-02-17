@@ -13,3 +13,5 @@ I'd like to build out a full stack project now, but I know that if I focus on th
 Right now I'm building a course project using Docker and Kubernetes, Even if some of the information gets a little unclear I'll still be able to go back and pick up the fundamentals of the Crud Operations, routing, and other features that each framework has.
 
 I was thinking of building a simple Full Stack App using Flask first, but I do want to use Django for it's authenitcaiton mechanisms and JWT features. So I'll be working on 2 projects, The first project will have to be simple. Basically a web form on the clients browser that gets data from an API to update the state for the user. It'll have to be that simple, but If I pick the right API and information it should still be a nice looking web applicaiton.
+
+More here.
