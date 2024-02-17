@@ -19,3 +19,5 @@ This last week I spend a couple of days getting the yard ready for the Mason Bee
 With this in mind I placed 2 Mason Shelters out, one in the back yard near the back property line close to the rainier cherry tree. The second Mason Shelter is in the front yard attached to the front deck wood fence. They should be alright where they are, only time will tell.
 
 Hopefully I'll set the Bees out this week at some point.
+
+Mason Bees in Spring!!!
