@@ -1,8 +1,8 @@
-# Travis Lamberte - Dev Log is a Blog
+# Travis Lamberte - Dev log is a blog!
 
 ## Date: 2/21/2024
 
-## Title: AI Portfolio Project
+## Title: AI machine Learning Model
 
 For this project I propose building a Machine Learning model to do a simple function either linear, quardratic or sinusoidal.
 
