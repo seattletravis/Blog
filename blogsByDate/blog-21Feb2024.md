@@ -27,3 +27,5 @@ Number of Classes: 2, input and output
 Activation Function: Rectified Linear Unit (ReLU) | y = wx + b where w = weight, b = bias
 
 Optimizer: Adam - | optimizer = torch.optim.Adam(model.parameters(),lr=0.01) |
+
+Epochs: 200 (1 epoch is 1 run through all the training data)
