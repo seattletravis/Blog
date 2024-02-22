@@ -25,3 +25,5 @@ TYPE: Artificial Neural Network (ANN)
 Number of Classes: 2, input and output
 
 Activation Function: Rectified Linear Unit (ReLU) | y = wx + b where w = weight, b = bias
+
+Optimizer: Adam - | optimizer = torch.optim.Adam(model.parameters(),lr=0.01) |
