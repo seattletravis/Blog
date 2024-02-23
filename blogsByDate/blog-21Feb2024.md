@@ -16,6 +16,8 @@ This simple AI will be enough to build an AI with all the best practice of AI Sc
 
 AI characteristics:
 
+add edit
+
 Code Details: Python, Numpy, Pytorch, Pandas, Matplotlib, Jupyter Notebook, Anaconda (virtual env)
 
 Deep Learning: input_layer, hidden_layer1, hidden_layer2, and output_layer
