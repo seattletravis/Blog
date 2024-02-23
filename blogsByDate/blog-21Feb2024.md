@@ -16,8 +16,6 @@ This simple AI will be enough to build an AI with all the best practice of AI Sc
 
 AI characteristics:
 
-add edit
-
 Code Details: Python, Numpy, Pytorch, Pandas, Matplotlib, Jupyter Notebook, Anaconda (virtual env)
 
 Deep Learning: input_layer, hidden_layer1, hidden_layer2, and output_layer
@@ -31,3 +29,5 @@ Activation Function: Rectified Linear Unit (ReLU) | y = wx + b where w = weight,
 Optimizer: Adam - | optimizer = torch.optim.Adam(model.parameters(),lr=0.01) |
 
 Epochs: 200 (1 epoch is 1 run through all the training data)
+
+
