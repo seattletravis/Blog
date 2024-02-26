@@ -20,4 +20,12 @@ Day 2: Perform brake service, replace rotors, pads, and glide pins on all 4 whee
 
 outcome and Discussion: Car still has spongy brakes. I decide that it's time to take the car to Les Schwab to get their take on what's wrong, I aslo feel like they can do the ABS brake bleed since they'll most likely have the scan tool that works on my vehical.
 
-When I get to Les Schwab I explain to the tech all the work I did to the brakes and the issue that I'm having, I also tell him that I did a manual bleed and that I can't do the scan tool bleed of the ABS system because I don't have the tool. He told me before looking at the car that the vehicle only needs a manual bleed and that my vehicle doesn't have the auto bleed function (Obviously wrong). After looking at the car. the tech told me that I most likely had a contaminant in the brake system that had deteriorated all the rubber gaskets, bladders, and parts in the system so I would need to replace the Master Cylinder, the brakelines, the ABS Module and all 4 calipers. Goodness me!?
+When I get to Les Schwab I explain to the tech all the work I did to the brakes and the issue that I'm having, I also tell him that I did a manual bleed and that I can't do the scan tool bleed of the ABS system because I don't have the tool. He told me before looking at the car that the vehicle only needs a manual bleed and that my vehicle doesn't have the auto bleed function (Obviously wrong). After looking at the car. the tech told me that I most likely had a contaminant in the brake system that had deteriorated all the rubber gaskets, bladders, and parts in the system so I would need to replace the Master Cylinder, the brakelines, the ABS Module and all 4 calipers. Goodness me!? just the abs module alone would be $800-1000 he told me.
+
+I asked him if there was anything I should try before going through all that work, he said there was nothing else I could try.
+
+This tech is by far a really really bad person for Les Schwab to have working for them. He was wrong and also ready to make bad repair decision on other peoples cars relying on his faulty knowledge base without consulting vechicle documentation. It's like a fire store of bad mechanic.
+
+Day 3: I get a scanner that supports my vehicle and perform an ABS module bleed on the car.
+
+Outcome and Discussion: Vehicle is fixed, Brakes are like new. No more sponginess in the pedal.
