@@ -36,4 +36,4 @@ This tech is by far a really really bad person for Les Schwab to have working fo
 
 Les Schwab is suppose to be a great place for people who need to rely on an expert to give them 'real' information to fix their vehicle. That is why there's a premium on their services, however it seems that their price doesn't represent a expert level of knowledge or experience anymore, and I wonder if it ever did.
 
-The worst part is the amount that was at stake for this techs wrong information.
+The worst part is the amount that was at stake for this techs wrong information. The tech described in depepth that I'd have to replace the entire brake system that is touched by the brake fluid, He gave me a list of parts that would have to be replaced, and even threw out a rough estimate for the ABS module $800-$1000 just for that part.
