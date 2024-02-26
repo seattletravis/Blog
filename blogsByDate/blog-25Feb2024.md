@@ -29,3 +29,5 @@ This tech is by far a really really bad person for Les Schwab to have working fo
 Day 3: I get a scanner that supports my vehicle and perform an ABS module bleed on the car.
 
 Outcome and Discussion: Vehicle is fixed, Brakes are like new. No more sponginess in the pedal.
+
+Les Schwab is suppose to be a great place for people who need to rely on an expert to give them 'real' information to fix their vehicle. That is why there's a premium on their services, however it seems that their price doesn't represent a expert level of knowledge or experience anymore, and I wonder if it ever did.
