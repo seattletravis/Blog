@@ -45,3 +45,7 @@ Master Cylinder - $100
 Brake Fluid - $40
 
 It would be roughly $1500 just for parts to do the job myself, however at les schwab that price is going to be closer to $4500. Which is unreasonable for a 2008 model of a Saturn Vue. Basically he was telling me that I should scrap the car. When I told him that I needed the Automated Brake Bleed when I brought the car in. Even if they charged me $200 for the brake bleed I would have been happy, but they didn't even offer to do the brake bleed.
+
+Les Schwab Failed and I'm really sad that I have their tires on my vehicle. I'm never going back.
+
+I'm one dissatisfied customer.
