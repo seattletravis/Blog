@@ -36,4 +36,12 @@ This tech is by far a really really bad person for Les Schwab to have working fo
 
 Les Schwab is suppose to be a great place for people who need to rely on an expert to give them 'real' information to fix their vehicle. That is why there's a premium on their services, however it seems that their price doesn't represent a expert level of knowledge or experience anymore, and I wonder if it ever did.
 
-The worst part is the amount that was at stake for this techs wrong information. The tech described in depepth that I'd have to replace the entire brake system that is touched by the brake fluid, He gave me a list of parts that would have to be replaced, and even threw out a rough estimate for the ABS module $800-$1000 just for that part.
+The worst part is the amount that was at stake for this techs wrong information. The tech described in depepth that I'd have to replace the entire brake system that is touched by the brake fluid, He gave me a list of parts that would have to be replaced, and even threw out a rough estimate for the ABS module $800-$1000 just for that part. Although he didn't break down the rest of the brake system by cost here's a rough estimate for parts,
+
+Calipers x 4 - $300
+Brake Lines X 4 - $200
+ABS Module - $800
+Master Cylinder - $100
+Brake Fluid - $40
+
+It would be roughly $1500 just for parts to do the job myself, however at les schwab that price is going to be closer to $4500. Which is unreasonable for a 2008 model of a Saturn Vue. Basically he was telling me that I should scrap the car. When I told him that I needed the Automated Brake Bleed when I brought the car in. Even if they charged me $200 for the brake bleed I would have been happy, but they didn't even offer to do the brake bleed.
