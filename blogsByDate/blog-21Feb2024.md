@@ -2,7 +2,7 @@
 
 ## Date: 2/21/2024
 
-## Title: AI machine Learning Model
+## Title: AI Machine Learning Model
 
 For this project I propose building a Machine Learning model to do a simple function either linear, quardratic or sinusoidal.
 
