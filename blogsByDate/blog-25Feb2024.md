@@ -2,7 +2,7 @@
 
 ## Date: 2/21/2024
 
-## Title: Les Schwab... Fail!
+## Title: Les Schwab... Fail.
 
 My les schwab fail story.
 
