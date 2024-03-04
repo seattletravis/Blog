@@ -8,7 +8,7 @@ Date: 2/25/2024<br>
 [Les Schwab Fail...](blogsByDate/blog-25Feb2024.md)
 
 Date: 2/21/2024<br>
-[AI Machine Learning Model](blogsByDate/blog-21Feb2024.md)
+[AI Machine Learning Model Project Outline](blogsByDate/blog-21Feb2024.md)
 
 Date: 2/17/2024<br>
 [Seattle Code and Coffee!!!](blogsByDate/blog-17Feb2024.md)
