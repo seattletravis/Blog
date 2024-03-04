@@ -18,7 +18,7 @@ So I read the documentation on my car on how to bleed the brakes and in order to
 
 ### Day 2
 
-**Task:** Perform brake service, replace rotors, pads, and glide pins on all 4 wheels, rebuild caliper brackets, and clean/inspect calipers and hubs. Not able to bleed the ABS system. Scanner does not support my vehicle.
+**Task:** Perform brake service, replace rotors, pads, and glide pins on all 4 wheels, rebuild caliper brackets, and clean/inspect calipers and hubs. Not able to bleed the ABS system. Scanner I purchased does not support my vehicle. I return this scan tool and get another one on order later. 
 
 **outcome and Discussion:** Car still has spongy brakes. I decide that it's time to take the car to Les Schwab to get their take on what's wrong, I aslo feel like they can do the ABS brake bleed since they'll most likely have the scan tool that works on my vehical.
 
