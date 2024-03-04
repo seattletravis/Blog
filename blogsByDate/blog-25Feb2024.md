@@ -26,7 +26,7 @@ When I get to Les Schwab I explain to the tech all the work I did to the brakes 
 
 I asked him if there was anything I should try before going through all that work, he said there was nothing else I could try.
 
-This tech is by far a really really bad person for Les Schwab to have working for them. He was wrong and also ready to make bad repair decision on other peoples cars relying on his faulty knowledge base without consulting vechicle documentation. It's like a fire store of bad mechanic.
+This tech is by far a really really bad person for Les Schwab to have working for them. He was wrong and also ready to make bad repair decisions on other peoples cars relying on his faulty knowledge base without consulting vechicle documentation. It's like a fire store of bad mechanic.
 
 ### Day 3
 
