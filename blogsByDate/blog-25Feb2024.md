@@ -8,7 +8,7 @@ My Les Schwab fail story.
 
 My brakes started getting spongy, by that I mean that the brakes would stay engaged slightly when taking my foot off the pedal. This is obviously air in the brake line, so to fix the issue it's necessary to bleed the brakes.
 
-So I read the documentation on my car on how to bleed the brakes and in order to do it I needed to get the whole car lifted and placed on jack stands. There's ways to bleed the brakes with out taking the wheels off but it's just easier for me to see what I'm doing with the wheels off, so each time I go to work on my car I'm going to be going through the extra work of lifting the car and removing the wheels.
+So I read the documentation on my car on how to bleed the brakes and in order to do it I needed to get the whole car lifted and placed on jack stands. There's ways to bleed the brakes with out taking the wheels off but it's just easier for me to see what I'm doing with the wheels off, so each time I go to work on my car I'm going to be going through the extra work of lifting the car and removing the wheels. I also needed to get a scan tool in order to interface with the car computer to start the auto bleed process.
 
 ### Day 1
 
