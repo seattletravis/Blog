@@ -12,7 +12,7 @@ So I read the documentation on my car on how to bleed the brakes and in order to
 
 ### Day 1
 
-**Task:** Perform a manual brake bleed on the car.
+**Task:** Perform a manual brake bleed on the car. I didn't have a scan tool so I did a manual bleed instead hoping that would fix the issue. At this point I didn't do any other work to the brakes except for inspect the rotors and pads.
 
 **Outcome and Discussion:** Car still has spongy brakes no change. Since there was no change in the brakes I decide that maybe there's a ceased glide pin or ceased brake shoe that's not sliding how it should be sliding, however I still think it might be air in the brake lines. so I decide that i'll replace the rotors, pads, and glide pin. All of these parts have wear and if I do need to take the vehicle to Les Scwab later I wont get pestered to have them replace these parts. I also find out that there's a special brake bleed of the ABS system that can only be performed with a scan tool that has the functionality. I order a scanner to do an ABS brake bleed.
 
