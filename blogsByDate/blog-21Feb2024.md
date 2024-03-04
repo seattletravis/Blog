@@ -2,17 +2,19 @@
 
 ## Date: 2/21/2024
 
-## Title: AI Machine Learning Model
+## Title: AI Machine Learning
 
-For this project I propose building a Machine Learning model to do a simple function either linear, quardratic or sinusoidal.
+Lets build a Machine Learning model to do a simple function either linear, quardratic or sinusoidal.
 
 Linear Function f(x) = mx + b
+
 Quadratic Function f(x) = mx^2 + b
+
 Sinusoidal Function f(x) = sin(x)
 
 The AI model will simply take a value in and respond with the correct value that the function would provide, however the model will not be trained with the function, only input and output values provided from the function.
 
-This simple AI will be enough to build an AI with all the best practice of AI Science.
+This simple AI will be enough to build an AI with all the best practice of AI development.
 
 AI characteristics:
 
