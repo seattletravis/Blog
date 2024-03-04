@@ -4,7 +4,7 @@
 
 ## Title: AI Machine Learning
 
-Lets build a Machine Learning model to do a simple function either linear, quardratic or sinusoidal.
+Lets build a Machine Learning model to have the same functionality as a simple math function either linear, quardratic or sinusoidal.
 
 Linear Function f(x) = mx + b
 
