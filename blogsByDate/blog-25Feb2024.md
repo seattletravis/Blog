@@ -4,7 +4,7 @@
 
 ## Title: Les Schwab... Fail.
 
-My les schwab fail story.
+My Les Schwab fail story.
 
 My brakes started getting spongy, by that I mean that the brakes would stay engaged slightly when taking my foot off the pedal. This is obviously air in the brake line, so to fix the issue it's necessary to bleed the brakes.
 
