@@ -5,7 +5,7 @@ Welcome to my blog. I'll blog here when ever I feel like it. Sometimes I have a 
 I'll link my blogs here so you don't have to go shuffling around in the one folder that has all the blogs in it.
 
 Date: 2/25/2024<br>
-[Les Schwab Fail!](blogsByDate/blog-25Feb2024.md)
+[Les Schwab Fail...](blogsByDate/blog-25Feb2024.md)
 
 Date: 2/21/2024<br>
 [AI Machine Learning Model](blogsByDate/blog-21Feb2024.md)
